@@ -23,6 +23,8 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 
 This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
 
+> 📑 **Note:** Access the full **[Vendor Performance Report](./Vendor%20Performance%20Report.pdf)** here for a streamlined view of the strategic insights and data visualizations.
+
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
