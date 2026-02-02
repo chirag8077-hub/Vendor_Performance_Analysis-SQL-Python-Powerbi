@@ -1,0 +1,23 @@
+# --- Database ---
+# Ignore the actual database file
+Inventory.db
+
+# --- Data ---
+# This ignores all the data folder.
+data/
+
+# --- Logs ---
+# Ignore everything in the logs folder
+logs/
+
+# --- Python System ---
+__pycache__/
+
+.ipynb_checkpoints/
+
+# --- Environment ---
+venv/
+.env
+
+# Ignore the summary table if you exported it as a CSV
+vendor_sales_summary.csv
